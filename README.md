@@ -9,4 +9,6 @@ Frameworks used - Tensorflow,Keras
 Achieved an test accuracy of 54.51% for the best configuration.
 
 
+Notebooks are named according to the case-id in accuracy_results.pdf
+
 Based on the exercise from “Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow", 2nd Edition, by Aurélien Géron (O’Reilly)
