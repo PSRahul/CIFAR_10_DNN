@@ -1,13 +1,11 @@
 
 Dense Neural Network classifier for the CIFAR-10 dataset
 
-Trained 20 hidden layer Dense Neural Network for the CIFAR10 dataset.
+Investigated various weight initialization strategies, drop-out, normalization techniques and learning rate schedulers on a fully connected neural network model.
 
-Investigated various activation function , initialisers ,dropout techniques such as Mac Dropout and learning schedules and batch Normalisation,Early stopping.
+Framework used - Keras
 
-Frameworks used - Tensorflow,Keras
-
-Achieved an test accuracy of 54.51% for the best configuration.
+Achieved an test accuracy of 54.51% for the best hperparameter configuration.
 
 
 Notebooks are named according to the case-id in results.md
